@@ -1,4 +1,5 @@
 # Run this script to play the game.
+#
 
 from stack import Stack
 
