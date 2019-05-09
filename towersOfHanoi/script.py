@@ -1,3 +1,5 @@
+# Run this script to play the game.
+
 from stack import Stack
 
 print("\nLet's play Towers of Hanoi!")
